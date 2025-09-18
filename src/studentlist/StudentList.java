@@ -10,7 +10,7 @@ package studentlist;
  */
 public class StudentList {
 
-    /**
+    /** date: September 18th
      * @param args the command line arguments
      */
     public static void main(String[] args) {
