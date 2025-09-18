@@ -39,4 +39,8 @@ public class ParttimeStudent {
     public void setNumofhrs(int numofhrs) {
         this.numofhrs = numofhrs;
     }
+    public void credit()
+    {
+    }
 }
+
